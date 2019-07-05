@@ -1,5 +1,5 @@
 # patClon
-#---------- patatap clone project ------------
+---------- patatap clone project ------------
 
 ## Created by - Bulgogi1128
 
