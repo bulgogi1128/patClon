@@ -19,6 +19,7 @@ Project is created with:
 	
 ## Setup
 To run this project, just simply download the zip file and run the html file.
+
 **NOTE**
 Due to nature of this application, It can only be played on PC.
 
