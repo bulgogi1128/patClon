@@ -15,7 +15,7 @@
 Project is created with:
 * Javascript
 
-**In conjunction with
+**In conjunction with**
 
 
 * Paper.js
